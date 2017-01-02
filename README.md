@@ -1,2 +1,4 @@
 # Jeju_travel
-## TRIP SCHDUCLE
+## TRIP SCHDULE
+> FIRST DAY
+* <PRE><CODE> 카멜리아힐 </CODE></PRE>

@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  place
+//  place_new
 //
-//  Created by cscoi022 on 2017. 1. 6..
-//  Copyright © 2017년 허정화. All rights reserved.
+//  Created by cscoi006 on 2017. 1. 11..
+//  Copyright © 2017년 Community. All rights reserved.
 //
 
 import UIKit

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0F2E9DC95F4F88B0311149C1BEE3838A2F64D97C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2" : 9223372036854775807,
+    "0F2E9DC95F4F88B0311149C1BEE3838A2F64D97C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "85638FC4-9A8F-41B8-A78D-12DF307FB2A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2" : "Jeju_travel\/place_again\/place_again\/PilotPlantCatalog\/",
+    "0F2E9DC95F4F88B0311149C1BEE3838A2F64D97C" : "Jeju_travel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "place_again",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "place_again\/place_again.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GeekInTheClass\/Jeju_travel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F2E9DC95F4F88B0311149C1BEE3838A2F64D97C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CodersHigh\/PilotPlantCatalog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2"
+    }
+  ]
+}

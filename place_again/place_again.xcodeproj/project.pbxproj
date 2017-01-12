@@ -7,18 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5437A951E2778D400FD4C60 /* Sources in Resources */ = {isa = PBXBuildFile; fileRef = A5437A941E2778D400FD4C60 /* Sources */; };
+		A54414261E277ABB002D3EDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A54414241E277ABB002D3EDB /* Main.storyboard */; };
 		A5B3D7561E261BCD00F74812 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B3D7551E261BCD00F74812 /* AppDelegate.swift */; };
 		A5B3D7581E261BCD00F74812 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B3D7571E261BCD00F74812 /* ViewController.swift */; };
-		A5B3D75B1E261BCD00F74812 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5B3D7591E261BCD00F74812 /* Main.storyboard */; };
 		A5B3D75D1E261BCD00F74812 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5B3D75C1E261BCD00F74812 /* Assets.xcassets */; };
 		A5B3D7601E261BCD00F74812 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5B3D75E1E261BCD00F74812 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5437A941E2778D400FD4C60 /* Sources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sources; sourceTree = "<group>"; };
+		A54414251E277ABB002D3EDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A5B3D7521E261BCD00F74812 /* place_again.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = place_again.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5B3D7551E261BCD00F74812 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5B3D7571E261BCD00F74812 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A5B3D75A1E261BCD00F74812 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A5B3D75C1E261BCD00F74812 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5B3D75F1E261BCD00F74812 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5B3D7611E261BCD00F74812 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -54,11 +56,12 @@
 		A5B3D7541E261BCD00F74812 /* place_again */ = {
 			isa = PBXGroup;
 			children = (
+				A5437A941E2778D400FD4C60 /* Sources */,
 				A5B3D7551E261BCD00F74812 /* AppDelegate.swift */,
 				A5B3D7571E261BCD00F74812 /* ViewController.swift */,
-				A5B3D7591E261BCD00F74812 /* Main.storyboard */,
 				A5B3D75C1E261BCD00F74812 /* Assets.xcassets */,
 				A5B3D75E1E261BCD00F74812 /* LaunchScreen.storyboard */,
+				A54414241E277ABB002D3EDB /* Main.storyboard */,
 				A5B3D7611E261BCD00F74812 /* Info.plist */,
 			);
 			path = place_again;
@@ -126,7 +129,8 @@
 			files = (
 				A5B3D7601E261BCD00F74812 /* LaunchScreen.storyboard in Resources */,
 				A5B3D75D1E261BCD00F74812 /* Assets.xcassets in Resources */,
-				A5B3D75B1E261BCD00F74812 /* Main.storyboard in Resources */,
+				A5437A951E2778D400FD4C60 /* Sources in Resources */,
+				A54414261E277ABB002D3EDB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,10 +149,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A5B3D7591E261BCD00F74812 /* Main.storyboard */ = {
+		A54414241E277ABB002D3EDB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A5B3D75A1E261BCD00F74812 /* Base */,
+				A54414251E277ABB002D3EDB /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -302,6 +306,7 @@
 				A5B3D7661E261BCD00F74812 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
